@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FrameCollection</string>
+    <string name="drawer_item_main">FrameCollection</string>
+    <string name="drawer_item_home">Retrofit</string>
+    <string name="drawer_item_settings">okhttp</string>
+
+</resources>
